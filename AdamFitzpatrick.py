@@ -2,7 +2,7 @@
 # Returns Area of Rectangle
 def rect_area(l,w):
     """ Multiplies, length (l) time width (w) to find the area of the rectangle
-        based of user inputted dimensions. written by Adam Fitzpatrick """
+        based of user inputted dimensions. written by Adam Fitzpatrick. """
     return l * w
 #Function 2
 # Returns Surface Area of Rectangular Solid
